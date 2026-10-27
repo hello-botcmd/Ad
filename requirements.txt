@@ -1,0 +1,3 @@
+aiogram==3.x.x
+telethon
+python-dotenv
